@@ -1,5 +1,6 @@
 # KOY-LivingWordBible - Collaborative Obsidian Bible Study
 
+
 The Yah Living Word Bible is the ultimate collaborative online platform for users who want more of a community oriented bible study note taking.
 - 
 
