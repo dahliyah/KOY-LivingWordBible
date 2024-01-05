@@ -1,6 +1,6 @@
 # KOY-LivingWordBible - Collaborative Obsidian Bible Study
 
-<video src="https://github.com/dahliyah/KOY-LivingWordBible/blob/main/koylwb.mp4" controls title="Title"></video>
+<video src="https://github.com/dahliyah/KOY-LivingWordBible/raw/main/koylwb.mp4" controls title="Title"></video>
 
 
 - Welcome to our collaborative Bible study notes project! This repository is dedicated to hosting Obsidian notes and files creating a shared space for individuals to contribute and share their insights, thoughts, and study notes on the Bible. Whether you are a scholar, student, or simply passionate about the Bible, we invite you to join us in creating a comprehensive resource for Bible study.
